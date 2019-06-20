@@ -1,0 +1,18 @@
+.inputDiv {
+    margin: 10px;
+    padding: 20px;
+
+}
+
+button {
+    height: 50px;
+    border-radius: 5px;
+    font-size: 2em;
+    margin: 2px;
+
+}
+
+input {
+    height: 45px;
+    font-size: 2em;
+}
